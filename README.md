@@ -2,6 +2,7 @@
 Node Js project will start a new leap....
 
 
-learning phase 1
   1-using existing modules, creating new modules
+  2- reading external config files 
+  3- express framework 
   2- github publishing
